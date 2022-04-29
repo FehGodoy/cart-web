@@ -8,7 +8,7 @@ function Cart() {
    
 
   useEffect(() => {
-    fetch('https://godoydev.com.br/dados_temp/abaixo-10-reais.json')
+    fetch('https://godoydev.com.br/dados_temp/acima-10-reais.json')
       .then((res) => res.json())
       .then((data) => {
         setData(data.items);        
