@@ -10,5 +10,5 @@
   </div>
 
 <h4 align="center"> 
-	 Airpods Pro 🚀 Em produção... 
+	 Cart 🚀 Em produção... 
 </h4>
